@@ -1,7 +1,8 @@
 # hello-world
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A quick weekend project from a workshop I attended at WeCode 2017. The project was to create a simple web app and server from scratch and deploy to Heroku. All application code was written in a single language (JavaScript), with Ember in the client and Node with Express in the server. The project helped familiarize me with command line tools to create, build, and manage my own application.
+
+The tutorial cane be found here: http://mariechatfield.com/tutorials/web-app/
 
 ## Prerequisites
 
